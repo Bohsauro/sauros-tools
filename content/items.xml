@@ -1,0 +1,6 @@
+<items gfxroot="gfx/items/" version="1">
+    <!-- File per definire oggetti personalizzati (collezionabili, attivi, trinket).
+         Esempio:
+         <active id="1" name="Sauro's Multitool" description="Uno strumento per ogni situazione" gfx="sauros_multitool.png" maxcharges="4" />
+    -->
+</items>
